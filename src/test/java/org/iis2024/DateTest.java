@@ -78,5 +78,9 @@ public class DateTest {
     // Assert
     assertFalse(isValid, "Date should be invalid in a non-leap year");
   }
+
+  public void methodAddedByOwnes() {
+    System.out.println("This is the method added by owner!");
+  }
 }
 
